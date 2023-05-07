@@ -1,0 +1,5 @@
+<svg id="Wave_1_" data-name="Wave (1)" xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <rect id="Rectangle_2" data-name="Rectangle 2" width="1920" height="1080" fill="#6287ae"/>
+  <path id="Path_1" data-name="Path 1" d="M0,90.017C76.8,128.494,230.4,256.35,384,282.4s230.4-69.74,384-62.124,230.4,135.071,384,100.2S1382.4,6.249,1536,45.928s307.2,378.358,384,472.947V1080H0Z" transform="translate(0 0)" fill="#7eafe1"/>
+  <path id="Path_2" data-name="Path 2" d="M0,281,1920,546v14H0Z" transform="translate(0 520)" fill="#a7c6e5"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <rect id="Rectangle_63" data-name="Rectangle 63" width="1920" height="1080" fill="#374151"/>
+  <g id="Path_30" data-name="Path 30" transform="translate(225 322)" fill="none">
+    <path d="M0,0H1468V478H0Z" stroke="none"/>
+    <path d="M 1 1 L 1 477 L 1467 477 L 1467 1 L 1 1 M 0 0 L 1468 0 L 1468 478 L 0 478 L 0 0 Z" stroke="none" fill="#fff"/>
+  </g>
+  <rect id="Rectangle_53" data-name="Rectangle 53" width="259" height="67" rx="33.5" transform="translate(1332 683)" fill="#79bcd4"/>
+  <rect id="Rectangle_124" data-name="Rectangle 124" width="900" height="67" rx="33.5" transform="translate(398 683)" fill="#dcdcdc"/>
+  <rect id="Rectangle_125" data-name="Rectangle 125" width="900" height="50" rx="25" transform="translate(528 571)" fill="#dcdcdc"/>
+  <rect id="Rectangle_126" data-name="Rectangle 126" width="897" height="44" rx="22" transform="translate(531 484)" fill="#dcdcdc"/>
+  <rect id="Rectangle_127" data-name="Rectangle 127" width="638" height="67" rx="33.5" transform="translate(680 374)" fill="#c2f0ca"/>
+</svg>

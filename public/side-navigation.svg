@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1084" viewBox="0 0 1920 1084">
+  <rect id="Rectangle_15" data-name="Rectangle 15" width="1920" height="1080" fill="#fff"/>
+  <path id="Path_27" data-name="Path 27" d="M0,0H432V1080H0Z" fill="#fff"/>
+  <rect id="Rectangle_42" data-name="Rectangle 42" width="198" height="50" rx="25" transform="translate(156 52)" fill="#dcdcdc"/>
+  <rect id="Rectangle_43" data-name="Rectangle 43" width="198" height="50" rx="25" transform="translate(156 137)" fill="#dcdcdc"/>
+  <circle id="Ellipse_12" data-name="Ellipse 12" cx="30" cy="30" r="30" transform="translate(53 47)" fill="#79bcd4"/>
+  <circle id="Ellipse_13" data-name="Ellipse 13" cx="30" cy="30" r="30" transform="translate(53 132)" fill="#c2f0ca"/>
+  <rect id="Rectangle_44" data-name="Rectangle 44" width="198" height="50" rx="25" transform="translate(156 222)" fill="#dcdcdc"/>
+  <circle id="Ellipse_14" data-name="Ellipse 14" cx="30" cy="30" r="30" transform="translate(53 217)" fill="#f8ffc9"/>
+  <rect id="Rectangle_45" data-name="Rectangle 45" width="198" height="50" rx="25" transform="translate(156 307)" fill="#dcdcdc"/>
+  <circle id="Ellipse_15" data-name="Ellipse 15" cx="30" cy="30" r="30" transform="translate(53 302)" fill="#e5a0a0"/>
+  <rect id="Rectangle_46" data-name="Rectangle 46" width="198" height="50" rx="25" transform="translate(156 392)" fill="#dcdcdc"/>
+  <circle id="Ellipse_16" data-name="Ellipse 16" cx="30" cy="30" r="30" transform="translate(53 387)" fill="#79bcd4"/>
+  <rect id="Rectangle_47" data-name="Rectangle 47" width="198" height="50" rx="25" transform="translate(156 527)" fill="#dcdcdc"/>
+  <circle id="Ellipse_17" data-name="Ellipse 17" cx="30" cy="30" r="30" transform="translate(53 522)" fill="#f8ffc9"/>
+  <rect id="Rectangle_48" data-name="Rectangle 48" width="198" height="50" rx="25" transform="translate(156 612)" fill="#dcdcdc"/>
+  <circle id="Ellipse_18" data-name="Ellipse 18" cx="30" cy="30" r="30" transform="translate(53 607)" fill="#c2f0ca"/>
+  <rect id="Rectangle_49" data-name="Rectangle 49" width="198" height="50" rx="25" transform="translate(156 697)" fill="#dcdcdc"/>
+  <circle id="Ellipse_19" data-name="Ellipse 19" cx="30" cy="30" r="30" transform="translate(53 692)" fill="#79bcd4"/>
+  <path id="Path_28" data-name="Path 28" d="M388,0" transform="translate(23.5 489.5)" fill="none" stroke="#cfc8c8" stroke-width="1"/>
+  <circle id="Ellipse_20" data-name="Ellipse 20" cx="30" cy="30" r="30" transform="translate(53 992)" fill="#e5a0a0"/>
+  <circle id="Ellipse_21" data-name="Ellipse 21" cx="30" cy="30" r="30" transform="translate(175 992)" fill="#79bcd4"/>
+  <circle id="Ellipse_22" data-name="Ellipse 22" cx="30" cy="30" r="30" transform="translate(297 992)" fill="#c2f0ca"/>
+  <line id="Line_5" data-name="Line 5" x2="388" transform="translate(30.75 493.5)" fill="none" stroke="#afafaf" stroke-width="1"/>
+  <path id="Path_29" data-name="Path 29" d="M0,0H1080" transform="translate(439.25 4) rotate(90)" fill="none" stroke="#afafaf" stroke-width="1"/>
+</svg>

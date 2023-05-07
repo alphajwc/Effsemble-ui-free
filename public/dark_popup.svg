@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <path id="Path_31" data-name="Path 31" d="M0,0H1920V1080H0Z" fill="#374151" style="mix-blend-mode: darken;isolation: isolate"/>
+  <g id="Path_32" data-name="Path 32" transform="translate(469 187)" fill="none" style="mix-blend-mode: color-dodge;isolation: isolate">
+    <path d="M0,0H983V686H0Z" stroke="none"/>
+    <path d="M 1 1 L 1 685 L 982 685 L 982 1 L 1 1 M 0 0 L 983 0 L 983 686 L 0 686 L 0 0 Z" stroke="none" fill="#ececec"/>
+  </g>
+  <rect id="Rectangle_52" data-name="Rectangle 52" width="846" height="44" rx="22" transform="translate(509 400)" fill="#dcdcdc"/>
+  <rect id="Rectangle_53" data-name="Rectangle 53" width="359" height="50" transform="translate(545 306)" fill="#79bcd4"/>
+  <rect id="Rectangle_54" data-name="Rectangle 54" width="163" height="42" rx="21" transform="translate(509 224)" fill="#dcdcdc"/>
+  <circle id="Ellipse_24" data-name="Ellipse 24" cx="22.5" cy="22.5" r="22.5" transform="translate(1367 208)" fill="#e5a0a0"/>
+  <rect id="Rectangle_58" data-name="Rectangle 58" width="359" height="50" transform="translate(974 306)" fill="#c2f0ca"/>
+  <rect id="Rectangle_59" data-name="Rectangle 59" width="846" height="44" rx="22" transform="translate(509 484)" fill="#dcdcdc"/>
+  <rect id="Rectangle_60" data-name="Rectangle 60" width="846" height="44" rx="22" transform="translate(509 569)" fill="#dcdcdc"/>
+  <rect id="Rectangle_61" data-name="Rectangle 61" width="846" height="44" rx="22" transform="translate(509 653)" fill="#dcdcdc"/>
+  <rect id="Rectangle_62" data-name="Rectangle 62" width="846" height="67" transform="translate(509 741)" fill="#f8ffc9"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <filter id="Path_19" x="462" y="181" width="1001" height="621" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Path_20" data-name="Path 20" d="M0,0H1920V1080H0Z" fill="#374151" style="mix-blend-mode: darken;isolation: isolate"/>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_19)">
+    <g id="Path_19-2" data-name="Path 19" transform="translate(469 187)" fill="#374151">
+      <path d="M 982.5 602.5 L 0.5 602.5 L 0.5 0.5 L 982.5 0.5 L 982.5 602.5 Z" stroke="none"/>
+      <path d="M 1 1 L 1 602 L 982 602 L 982 1 L 1 1 M 0 0 L 983 0 L 983 603 L 0 603 L 0 0 Z" stroke="none" fill="#fff"/>
+    </g>
+  </g>
+  <circle id="Ellipse_23" data-name="Ellipse 23" cx="58" cy="58" r="58" transform="translate(902 254)" fill="#c2f0ca"/>
+  <rect id="Rectangle_52" data-name="Rectangle 52" width="569" height="68" rx="34" transform="translate(676 421)" fill="#dcdcdc"/>
+  <rect id="Rectangle_53" data-name="Rectangle 53" width="359" height="89" transform="translate(794 643)" fill="#79bcd4"/>
+  <rect id="Rectangle_54" data-name="Rectangle 54" width="451" height="54" rx="27" transform="translate(748 540)" fill="#dcdcdc"/>
+  <circle id="Ellipse_24" data-name="Ellipse 24" cx="38.5" cy="38.5" r="38.5" transform="translate(1355 200)" fill="#79bcd4"/>
+  <rect id="Rectangle_55" data-name="Rectangle 55" width="359" height="89" transform="translate(48 40)" fill="#79bcd4" opacity="0.64"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Header_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Header_1" data-name="Header – 1" clip-path="url(#clip-Header_1)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <path id="Path_16" data-name="Path 16" d="M0,0H1920V1080H0Z" transform="translate(1)" fill="#374151"/>
+    <rect id="Rectangle_64" data-name="Rectangle 64" width="1920" height="154" fill="#374151"/>
+    <rect id="Rectangle_52" data-name="Rectangle 52" width="164" height="44" rx="22" transform="translate(534 50)" fill="#dcdcdc"/>
+    <rect id="Rectangle_53" data-name="Rectangle 53" width="259" height="67" rx="33.5" transform="translate(1618 44)" fill="#79bcd4"/>
+    <rect id="Rectangle_54" data-name="Rectangle 54" width="163" height="42" rx="21" transform="translate(150 50)" fill="#dcdcdc"/>
+    <circle id="Ellipse_24" data-name="Ellipse 24" cx="38.5" cy="38.5" r="38.5" transform="translate(50 33)" fill="#e5a0a0"/>
+    <rect id="Rectangle_65" data-name="Rectangle 65" width="164" height="44" rx="22" transform="translate(741 50)" fill="#dcdcdc"/>
+    <rect id="Rectangle_66" data-name="Rectangle 66" width="164" height="44" rx="22" transform="translate(948 50)" fill="#dcdcdc"/>
+    <rect id="Rectangle_67" data-name="Rectangle 67" width="164" height="44" rx="22" transform="translate(1155 50)" fill="#dcdcdc"/>
+    <rect id="Rectangle_68" data-name="Rectangle 68" width="164" height="44" rx="22" transform="translate(1362 50)" fill="#dcdcdc"/>
+    <line id="Line_3" data-name="Line 3" x2="1916" transform="translate(5.5 154)" fill="none" stroke="#afafaf" stroke-width="1"/>
+  </g>
+</svg>

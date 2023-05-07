@@ -1,0 +1,231 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <path id="Path_13" data-name="Path 13" d="M0,0H1920V1080H0Z" fill="#374151"/>
+  <g id="Group_16" data-name="Group 16" transform="translate(258.861 57)">
+    <g id="Rectangle_33" data-name="Rectangle 33" transform="translate(0.139)" fill="#374151" stroke="#fff" stroke-width="1">
+      <rect width="354" height="444" stroke="none"/>
+      <rect x="0.5" y="0.5" width="353" height="443" fill="none"/>
+    </g>
+    <g id="Rectangle_23" data-name="Rectangle 23" transform="translate(65.14 229)" fill="#c2f0ca" stroke="#fff" stroke-width="1">
+      <rect width="232" height="41" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="231" height="40" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_24" data-name="Rectangle 24" transform="translate(93.139 295)" fill="#dcdcdc" stroke="#fff" stroke-width="1">
+      <rect width="171" height="25" rx="12.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="170" height="24" rx="12" fill="none"/>
+    </g>
+    <g id="Rectangle_36" data-name="Rectangle 36" transform="translate(63.139 37)" fill="#dcdcdc" stroke="#fff" stroke-width="1">
+      <rect width="227" height="168" stroke="none"/>
+      <rect x="0.5" y="0.5" width="226" height="167" fill="none"/>
+    </g>
+    <g id="Rectangle_37" data-name="Rectangle 37" transform="translate(93.139 336)" fill="#dcdcdc" stroke="#fff" stroke-width="1">
+      <rect width="171" height="27" rx="13.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="170" height="26" rx="13" fill="none"/>
+    </g>
+    <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(84.139 381)" fill="#e5a0a0" stroke="#fff" stroke-width="1">
+      <ellipse cx="18.5" cy="18" rx="18.5" ry="18" stroke="none"/>
+      <ellipse cx="18.5" cy="18" rx="18" ry="17.5" fill="none"/>
+    </g>
+    <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(132.139 381)" fill="#79bcd4" stroke="#fff" stroke-width="1">
+      <ellipse cx="19" cy="18" rx="19" ry="18" stroke="none"/>
+      <ellipse cx="19" cy="18" rx="18.5" ry="17.5" fill="none"/>
+    </g>
+    <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(181.139 381)" fill="#c2f0ca" stroke="#fff" stroke-width="1">
+      <ellipse cx="19" cy="18" rx="19" ry="18" stroke="none"/>
+      <ellipse cx="19" cy="18" rx="18.5" ry="17.5" fill="none"/>
+    </g>
+    <g id="Ellipse_10" data-name="Ellipse 10" transform="translate(230.139 381)" fill="#f8ffc9" stroke="#fff" stroke-width="1">
+      <ellipse cx="19" cy="18" rx="19" ry="18" stroke="none"/>
+      <ellipse cx="19" cy="18" rx="18.5" ry="17.5" fill="none"/>
+    </g>
+  </g>
+  <g id="Group_17" data-name="Group 17" transform="translate(783.025 57)">
+    <g id="Rectangle_33-2" data-name="Rectangle 33" transform="translate(-0.025)" fill="#374151" stroke="#fff" stroke-width="1">
+      <rect width="354" height="444" stroke="none"/>
+      <rect x="0.5" y="0.5" width="353" height="443" fill="none"/>
+    </g>
+    <g id="Rectangle_23-2" data-name="Rectangle 23" transform="translate(65.975 229)" fill="#c2f0ca" stroke="#fff" stroke-width="1">
+      <rect width="231" height="41" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="230" height="40" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_24-2" data-name="Rectangle 24" transform="translate(92.975 295)" fill="#dcdcdc" stroke="#fff" stroke-width="1">
+      <rect width="171" height="25" rx="12.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="170" height="24" rx="12" fill="none"/>
+    </g>
+    <g id="Rectangle_36-2" data-name="Rectangle 36" transform="translate(62.975 37)" fill="#dcdcdc" stroke="#fff" stroke-width="1">
+      <rect width="227" height="168" stroke="none"/>
+      <rect x="0.5" y="0.5" width="226" height="167" fill="none"/>
+    </g>
+    <g id="Rectangle_37-2" data-name="Rectangle 37" transform="translate(92.975 336)" fill="#dcdcdc" stroke="#fff" stroke-width="1">
+      <rect width="171" height="27" rx="13.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="170" height="26" rx="13" fill="none"/>
+    </g>
+    <g id="Ellipse_7-2" data-name="Ellipse 7" transform="translate(83.975 381)" fill="#e5a0a0" stroke="#fff" stroke-width="1">
+      <ellipse cx="18.5" cy="18" rx="18.5" ry="18" stroke="none"/>
+      <ellipse cx="18.5" cy="18" rx="18" ry="17.5" fill="none"/>
+    </g>
+    <g id="Ellipse_8-2" data-name="Ellipse 8" transform="translate(131.975 381)" fill="#79bcd4" stroke="#fff" stroke-width="1">
+      <ellipse cx="19" cy="18" rx="19" ry="18" stroke="none"/>
+      <ellipse cx="19" cy="18" rx="18.5" ry="17.5" fill="none"/>
+    </g>
+    <g id="Ellipse_9-2" data-name="Ellipse 9" transform="translate(180.975 381)" fill="#c2f0ca" stroke="#fff" stroke-width="1">
+      <ellipse cx="19.5" cy="18" rx="19.5" ry="18" stroke="none"/>
+      <ellipse cx="19.5" cy="18" rx="19" ry="17.5" fill="none"/>
+    </g>
+    <g id="Ellipse_10-2" data-name="Ellipse 10" transform="translate(229.975 381)" fill="#f8ffc9" stroke="#fff" stroke-width="1">
+      <ellipse cx="19.5" cy="18" rx="19.5" ry="18" stroke="none"/>
+      <ellipse cx="19.5" cy="18" rx="19" ry="17.5" fill="none"/>
+    </g>
+  </g>
+  <g id="Group_19" data-name="Group 19" transform="translate(258.861 578.98)">
+    <g id="Rectangle_33-3" data-name="Rectangle 33" transform="translate(0.139 0.02)" fill="#374151" stroke="#fff" stroke-width="1">
+      <rect width="354" height="444" stroke="none"/>
+      <rect x="0.5" y="0.5" width="353" height="443" fill="none"/>
+    </g>
+    <g id="Rectangle_23-3" data-name="Rectangle 23" transform="translate(65.14 229.02)" fill="#c2f0ca" stroke="#fff" stroke-width="1">
+      <rect width="232" height="41" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="231" height="40" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_24-3" data-name="Rectangle 24" transform="translate(93.139 295.02)" fill="#dcdcdc" stroke="#fff" stroke-width="1">
+      <rect width="171" height="25" rx="12.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="170" height="24" rx="12" fill="none"/>
+    </g>
+    <g id="Rectangle_36-3" data-name="Rectangle 36" transform="translate(63.139 37.02)" fill="#dcdcdc" stroke="#fff" stroke-width="1">
+      <rect width="227" height="168" stroke="none"/>
+      <rect x="0.5" y="0.5" width="226" height="167" fill="none"/>
+    </g>
+    <g id="Rectangle_37-3" data-name="Rectangle 37" transform="translate(93.139 336.02)" fill="#dcdcdc" stroke="#fff" stroke-width="1">
+      <rect width="171" height="27" rx="13.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="170" height="26" rx="13" fill="none"/>
+    </g>
+    <g id="Ellipse_7-3" data-name="Ellipse 7" transform="translate(84.139 381.02)" fill="#e5a0a0" stroke="#fff" stroke-width="1">
+      <ellipse cx="18.5" cy="18" rx="18.5" ry="18" stroke="none"/>
+      <ellipse cx="18.5" cy="18" rx="18" ry="17.5" fill="none"/>
+    </g>
+    <g id="Ellipse_8-3" data-name="Ellipse 8" transform="translate(132.139 381.02)" fill="#79bcd4" stroke="#fff" stroke-width="1">
+      <ellipse cx="19" cy="18" rx="19" ry="18" stroke="none"/>
+      <ellipse cx="19" cy="18" rx="18.5" ry="17.5" fill="none"/>
+    </g>
+    <g id="Ellipse_9-3" data-name="Ellipse 9" transform="translate(181.139 381.02)" fill="#c2f0ca" stroke="#fff" stroke-width="1">
+      <ellipse cx="19" cy="18" rx="19" ry="18" stroke="none"/>
+      <ellipse cx="19" cy="18" rx="18.5" ry="17.5" fill="none"/>
+    </g>
+    <g id="Ellipse_10-3" data-name="Ellipse 10" transform="translate(230.139 381.02)" fill="#f8ffc9" stroke="#fff" stroke-width="1">
+      <ellipse cx="19" cy="18" rx="19" ry="18" stroke="none"/>
+      <ellipse cx="19" cy="18" rx="18.5" ry="17.5" fill="none"/>
+    </g>
+  </g>
+  <g id="Group_20" data-name="Group 20" transform="translate(783.025 578.98)">
+    <g id="Rectangle_33-4" data-name="Rectangle 33" transform="translate(-0.025 0.02)" fill="#374151" stroke="#fff" stroke-width="1">
+      <rect width="354" height="444" stroke="none"/>
+      <rect x="0.5" y="0.5" width="353" height="443" fill="none"/>
+    </g>
+    <g id="Rectangle_23-4" data-name="Rectangle 23" transform="translate(65.975 229.02)" fill="#c2f0ca" stroke="#fff" stroke-width="1">
+      <rect width="231" height="41" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="230" height="40" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_24-4" data-name="Rectangle 24" transform="translate(92.975 295.02)" fill="#dcdcdc" stroke="#fff" stroke-width="1">
+      <rect width="171" height="25" rx="12.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="170" height="24" rx="12" fill="none"/>
+    </g>
+    <g id="Rectangle_36-4" data-name="Rectangle 36" transform="translate(62.975 37.02)" fill="#dcdcdc" stroke="#fff" stroke-width="1">
+      <rect width="227" height="168" stroke="none"/>
+      <rect x="0.5" y="0.5" width="226" height="167" fill="none"/>
+    </g>
+    <g id="Rectangle_37-4" data-name="Rectangle 37" transform="translate(92.975 336.02)" fill="#dcdcdc" stroke="#fff" stroke-width="1">
+      <rect width="171" height="27" rx="13.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="170" height="26" rx="13" fill="none"/>
+    </g>
+    <g id="Ellipse_7-4" data-name="Ellipse 7" transform="translate(83.975 381.02)" fill="#e5a0a0" stroke="#fff" stroke-width="1">
+      <ellipse cx="18.5" cy="18" rx="18.5" ry="18" stroke="none"/>
+      <ellipse cx="18.5" cy="18" rx="18" ry="17.5" fill="none"/>
+    </g>
+    <g id="Ellipse_8-4" data-name="Ellipse 8" transform="translate(131.975 381.02)" fill="#79bcd4" stroke="#fff" stroke-width="1">
+      <ellipse cx="19" cy="18" rx="19" ry="18" stroke="none"/>
+      <ellipse cx="19" cy="18" rx="18.5" ry="17.5" fill="none"/>
+    </g>
+    <g id="Ellipse_9-4" data-name="Ellipse 9" transform="translate(180.975 381.02)" fill="#c2f0ca" stroke="#fff" stroke-width="1">
+      <ellipse cx="19.5" cy="18" rx="19.5" ry="18" stroke="none"/>
+      <ellipse cx="19.5" cy="18" rx="19" ry="17.5" fill="none"/>
+    </g>
+    <g id="Ellipse_10-4" data-name="Ellipse 10" transform="translate(229.975 381.02)" fill="#f8ffc9" stroke="#fff" stroke-width="1">
+      <ellipse cx="19.5" cy="18" rx="19.5" ry="18" stroke="none"/>
+      <ellipse cx="19.5" cy="18" rx="19" ry="17.5" fill="none"/>
+    </g>
+  </g>
+  <g id="Group_21" data-name="Group 21" transform="translate(1307.189 578.98)">
+    <g id="Rectangle_33-5" data-name="Rectangle 33" transform="translate(-0.19 0.02)" fill="#374151" stroke="#fff" stroke-width="1">
+      <rect width="354" height="444" stroke="none"/>
+      <rect x="0.5" y="0.5" width="353" height="443" fill="none"/>
+    </g>
+    <g id="Rectangle_23-5" data-name="Rectangle 23" transform="translate(65.81 229.02)" fill="#c2f0ca" stroke="#fff" stroke-width="1">
+      <rect width="231" height="41" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="230" height="40" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_24-5" data-name="Rectangle 24" transform="translate(92.81 295.02)" fill="#dcdcdc" stroke="#fff" stroke-width="1">
+      <rect width="171" height="25" rx="12.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="170" height="24" rx="12" fill="none"/>
+    </g>
+    <g id="Rectangle_36-5" data-name="Rectangle 36" transform="translate(63.81 37.02)" fill="#dcdcdc" stroke="#fff" stroke-width="1">
+      <rect width="227" height="168" stroke="none"/>
+      <rect x="0.5" y="0.5" width="226" height="167" fill="none"/>
+    </g>
+    <g id="Rectangle_37-5" data-name="Rectangle 37" transform="translate(92.81 336.02)" fill="#dcdcdc" stroke="#fff" stroke-width="1">
+      <rect width="171" height="27" rx="13.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="170" height="26" rx="13" fill="none"/>
+    </g>
+    <g id="Ellipse_7-5" data-name="Ellipse 7" transform="translate(83.81 381.02)" fill="#e5a0a0" stroke="#fff" stroke-width="1">
+      <ellipse cx="18.5" cy="18" rx="18.5" ry="18" stroke="none"/>
+      <ellipse cx="18.5" cy="18" rx="18" ry="17.5" fill="none"/>
+    </g>
+    <g id="Ellipse_8-5" data-name="Ellipse 8" transform="translate(131.81 381.02)" fill="#79bcd4" stroke="#fff" stroke-width="1">
+      <ellipse cx="19.5" cy="18" rx="19.5" ry="18" stroke="none"/>
+      <ellipse cx="19.5" cy="18" rx="19" ry="17.5" fill="none"/>
+    </g>
+    <g id="Ellipse_9-5" data-name="Ellipse 9" transform="translate(180.811 381.02)" fill="#c2f0ca" stroke="#fff" stroke-width="1">
+      <ellipse cx="19.5" cy="18" rx="19.5" ry="18" stroke="none"/>
+      <ellipse cx="19.5" cy="18" rx="19" ry="17.5" fill="none"/>
+    </g>
+    <g id="Ellipse_10-5" data-name="Ellipse 10" transform="translate(230.811 381.02)" fill="#f8ffc9" stroke="#fff" stroke-width="1">
+      <ellipse cx="19" cy="18" rx="19" ry="18" stroke="none"/>
+      <ellipse cx="19" cy="18" rx="18.5" ry="17.5" fill="none"/>
+    </g>
+  </g>
+  <g id="Group_46" data-name="Group 46" transform="translate(1307.189 56.98)">
+    <g id="Rectangle_33-6" data-name="Rectangle 33" transform="translate(-0.19 0.02)" fill="#374151" stroke="#fff" stroke-width="1">
+      <rect width="354" height="444" stroke="none"/>
+      <rect x="0.5" y="0.5" width="353" height="443" fill="none"/>
+    </g>
+    <g id="Rectangle_23-6" data-name="Rectangle 23" transform="translate(65.81 229.02)" fill="#c2f0ca" stroke="#fff" stroke-width="1">
+      <rect width="231" height="41" rx="18" stroke="none"/>
+      <rect x="0.5" y="0.5" width="230" height="40" rx="17.5" fill="none"/>
+    </g>
+    <g id="Rectangle_24-6" data-name="Rectangle 24" transform="translate(92.81 295.02)" fill="#dcdcdc" stroke="#fff" stroke-width="1">
+      <rect width="171" height="25" rx="12.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="170" height="24" rx="12" fill="none"/>
+    </g>
+    <g id="Rectangle_36-6" data-name="Rectangle 36" transform="translate(63.81 37.02)" fill="#dcdcdc" stroke="#fff" stroke-width="1">
+      <rect width="227" height="168" stroke="none"/>
+      <rect x="0.5" y="0.5" width="226" height="167" fill="none"/>
+    </g>
+    <g id="Rectangle_37-6" data-name="Rectangle 37" transform="translate(92.81 336.02)" fill="#dcdcdc" stroke="#fff" stroke-width="1">
+      <rect width="171" height="27" rx="13.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="170" height="26" rx="13" fill="none"/>
+    </g>
+    <g id="Ellipse_7-6" data-name="Ellipse 7" transform="translate(83.81 381.02)" fill="#e5a0a0" stroke="#fff" stroke-width="1">
+      <ellipse cx="18.5" cy="18" rx="18.5" ry="18" stroke="none"/>
+      <ellipse cx="18.5" cy="18" rx="18" ry="17.5" fill="none"/>
+    </g>
+    <g id="Ellipse_8-6" data-name="Ellipse 8" transform="translate(131.81 381.02)" fill="#79bcd4" stroke="#fff" stroke-width="1">
+      <ellipse cx="19.5" cy="18" rx="19.5" ry="18" stroke="none"/>
+      <ellipse cx="19.5" cy="18" rx="19" ry="17.5" fill="none"/>
+    </g>
+    <g id="Ellipse_9-6" data-name="Ellipse 9" transform="translate(180.811 381.02)" fill="#c2f0ca" stroke="#fff" stroke-width="1">
+      <ellipse cx="19.5" cy="18" rx="19.5" ry="18" stroke="none"/>
+      <ellipse cx="19.5" cy="18" rx="19" ry="17.5" fill="none"/>
+    </g>
+    <g id="Ellipse_10-6" data-name="Ellipse 10" transform="translate(230.811 381.02)" fill="#f8ffc9" stroke="#fff" stroke-width="1">
+      <ellipse cx="19" cy="18" rx="19" ry="18" stroke="none"/>
+      <ellipse cx="19" cy="18" rx="18.5" ry="17.5" fill="none"/>
+    </g>
+  </g>
+</svg>

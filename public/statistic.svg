@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <filter id="Rectangle_64" x="57" y="325" width="521" height="415" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_151" x="699" y="325" width="521" height="415" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_151-2" x="1332" y="325" width="521" height="415" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="Rectangle_63" data-name="Rectangle 63" width="1920" height="1080" fill="#fff"/>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_64)">
+    <rect id="Rectangle_64-2" data-name="Rectangle 64" width="503" height="397" transform="translate(66 331)" fill="#fff"/>
+  </g>
+  <rect id="Rectangle_53" data-name="Rectangle 53" width="259" height="77" rx="34" transform="translate(202 504)" fill="#79bcd4"/>
+  <rect id="Rectangle_150" data-name="Rectangle 150" width="339" height="43" rx="21.5" transform="translate(162 606)" fill="#dcdcdc"/>
+  <circle id="Ellipse_45" data-name="Ellipse 45" cx="59" cy="59" r="59" transform="translate(261 361)" fill="#c2f0ca"/>
+  <g id="Group_36" data-name="Group 36" transform="translate(641)">
+    <g transform="matrix(1, 0, 0, 1, -641, 0)" filter="url(#Rectangle_151)">
+      <rect id="Rectangle_151-3" data-name="Rectangle 151" width="503" height="397" transform="translate(708 331)" fill="#fff"/>
+    </g>
+    <path id="Path_36" data-name="Path 36" d="M34,0H225a34,34,0,0,1,34,34v9a34,34,0,0,1-34,34H34A34,34,0,0,1,0,43V34A34,34,0,0,1,34,0Z" transform="translate(203 504)" fill="#79bcd4"/>
+    <rect id="Rectangle_153" data-name="Rectangle 153" width="339" height="43" rx="21.5" transform="translate(163 606)" fill="#dcdcdc"/>
+    <circle id="Ellipse_46" data-name="Ellipse 46" cx="59" cy="59" r="59" transform="translate(262 361)" fill="#e5a0a0"/>
+  </g>
+  <g id="Group_37" data-name="Group 37" transform="translate(1274)">
+    <g transform="matrix(1, 0, 0, 1, -1274, 0)" filter="url(#Rectangle_151-2)">
+      <rect id="Rectangle_151-4" data-name="Rectangle 151" width="503" height="397" transform="translate(1341 331)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_152" data-name="Rectangle 152" width="259" height="77" rx="34" transform="translate(203 504)" fill="#79bcd4"/>
+    <rect id="Rectangle_153-2" data-name="Rectangle 153" width="339" height="43" rx="21.5" transform="translate(163 606)" fill="#dcdcdc"/>
+    <circle id="Ellipse_46-2" data-name="Ellipse 46" cx="59" cy="59" r="59" transform="translate(262 361)" fill="#dcec72"/>
+  </g>
+</svg>

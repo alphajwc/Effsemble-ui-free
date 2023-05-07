@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <filter id="Rectangle_357" x="533" y="339" width="859" height="516" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Path_88" data-name="Path 88" d="M0,0H1920V1080H0Z" fill="#374151"/>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_357)">
+    <rect id="Rectangle_357-2" data-name="Rectangle 357" width="841" height="498" transform="translate(542 345)" fill="#dcdcdc"/>
+  </g>
+  <rect id="Rectangle_353" data-name="Rectangle 353" width="166" height="41" transform="translate(542 245)" fill="#5cb9da"/>
+  <rect id="Rectangle_354" data-name="Rectangle 354" width="178" height="41" transform="translate(749 245)" fill="#9adba5"/>
+  <rect id="Rectangle_355" data-name="Rectangle 355" width="187" height="41" transform="translate(968 245)" fill="#dcec72"/>
+  <rect id="Rectangle_356" data-name="Rectangle 356" width="187" height="41" transform="translate(1196 245)" fill="#f76c6c"/>
+</svg>

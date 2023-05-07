@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <path id="Path_99" data-name="Path 99" d="M0,0H1920V1080H0Z" fill="#374151"/>
+  <rect id="Rectangle_353" data-name="Rectangle 353" width="295" height="116" transform="translate(188 457)" fill="#5cb9da"/>
+  <rect id="Rectangle_427" data-name="Rectangle 427" width="295" height="116" transform="translate(606 457)" fill="#f76c6c"/>
+  <rect id="Rectangle_428" data-name="Rectangle 428" width="295" height="116" transform="translate(1024 457)" fill="#dcec72"/>
+  <rect id="Rectangle_429" data-name="Rectangle 429" width="295" height="116" transform="translate(1442 457)" fill="#9adba5"/>
+  <text id="_1" data-name="1" transform="translate(311 550)" fill="#fff" font-size="90" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">1</tspan></text>
+  <text id="_2" data-name="2" transform="translate(729 550)" fill="#fff" font-size="90" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">2</tspan></text>
+  <text id="_3" data-name="3" transform="translate(1147 550)" fill="#fff" font-size="90" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">3</tspan></text>
+  <text id="_4" data-name="4" transform="translate(1576 550)" fill="#fff" font-size="90" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">4</tspan></text>
+</svg>

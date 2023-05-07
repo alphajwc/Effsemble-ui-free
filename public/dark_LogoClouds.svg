@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <path id="Path_41" data-name="Path 41" d="M0,0H1920V1080H0Z" fill="#374151"/>
+  <g id="Path_42" data-name="Path 42" transform="translate(0 251)" fill="#374151">
+    <path d="M 1918.5 396.5 L 0.5 396.5 L 0.5 0.5 L 1918.5 0.5 L 1918.5 182.1366729736328 L 1918.5 396.5 Z" stroke="none"/>
+    <path d="M 1 1 L 1 396 L 1918 396 L 1918 1 L 1 1 M 0 0 L 1919 0 L 1919 397 L 0 397 L 0 0 Z" stroke="none" fill="#fff"/>
+  </g>
+  <g id="Group_38" data-name="Group 38" transform="translate(-1522 -11)">
+    <circle id="Ellipse_50" data-name="Ellipse 50" cx="59" cy="59" r="59" transform="translate(1610 460)" fill="#e5a0a0"/>
+    <rect id="Rectangle_157" data-name="Rectangle 157" width="163" height="77" rx="34" transform="translate(1757 480)" fill="#79bcd4"/>
+  </g>
+  <g id="Group_39" data-name="Group 39" transform="translate(-1170 -11)">
+    <circle id="Ellipse_50-2" data-name="Ellipse 50" cx="59" cy="59" r="59" transform="translate(1610 460)" fill="#c2f0ca"/>
+    <rect id="Rectangle_157-2" data-name="Rectangle 157" width="163" height="77" rx="34" transform="translate(1757 480)" fill="#79bcd4"/>
+  </g>
+  <g id="Group_40" data-name="Group 40" transform="translate(-817 -11)">
+    <circle id="Ellipse_50-3" data-name="Ellipse 50" cx="59" cy="59" r="59" transform="translate(1610 460)" fill="#f8ffc9"/>
+    <rect id="Rectangle_157-3" data-name="Rectangle 157" width="163" height="77" rx="34" transform="translate(1757 480)" fill="#79bcd4"/>
+  </g>
+  <g id="Group_41" data-name="Group 41" transform="translate(-465 -11)">
+    <circle id="Ellipse_50-4" data-name="Ellipse 50" cx="59" cy="59" r="59" transform="translate(1610 460)" fill="#e5a0a0"/>
+    <rect id="Rectangle_157-4" data-name="Rectangle 157" width="163" height="77" rx="34" transform="translate(1757 480)" fill="#79bcd4"/>
+  </g>
+  <g id="Group_42" data-name="Group 42" transform="translate(-113 -11)">
+    <circle id="Ellipse_50-5" data-name="Ellipse 50" cx="59" cy="59" r="59" transform="translate(1610 460)" fill="#c2f0ca"/>
+    <rect id="Rectangle_157-5" data-name="Rectangle 157" width="163" height="77" rx="34" transform="translate(1757 480)" fill="#79bcd4"/>
+  </g>
+  <path id="Path_40" data-name="Path 40" d="M21.5,0h296C329.374,0,339,17.084,339,38.159s-9.626,38.159-21.5,38.159H21.5C9.626,76.318,0,59.234,0,38.159S9.626,0,21.5,0Z" transform="translate(750 299.682)" fill="#dcdcdc"/>
+</svg>

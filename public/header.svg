@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1938" height="1086" viewBox="0 0 1938 1086">
+  <defs>
+    <filter id="Rectangle_64" x="0" y="0" width="1938" height="172" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="Rectangle_63" data-name="Rectangle 63" width="1920" height="1080" transform="translate(10 6)" fill="#fff"/>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_64)">
+    <rect id="Rectangle_64-2" data-name="Rectangle 64" width="1920" height="154" transform="translate(9 6)" fill="#fff"/>
+  </g>
+  <rect id="Rectangle_52" data-name="Rectangle 52" width="164" height="44" rx="22" transform="translate(543 56)" fill="#dcdcdc"/>
+  <rect id="Rectangle_53" data-name="Rectangle 53" width="259" height="67" rx="33.5" transform="translate(1627 50)" fill="#79bcd4"/>
+  <rect id="Rectangle_54" data-name="Rectangle 54" width="163" height="42" rx="21" transform="translate(159 56)" fill="#dcdcdc"/>
+  <circle id="Ellipse_24" data-name="Ellipse 24" cx="38.5" cy="38.5" r="38.5" transform="translate(59 39)" fill="#e5a0a0"/>
+  <rect id="Rectangle_65" data-name="Rectangle 65" width="164" height="44" rx="22" transform="translate(750 56)" fill="#dcdcdc"/>
+  <rect id="Rectangle_66" data-name="Rectangle 66" width="164" height="44" rx="22" transform="translate(957 56)" fill="#dcdcdc"/>
+  <rect id="Rectangle_67" data-name="Rectangle 67" width="164" height="44" rx="22" transform="translate(1164 56)" fill="#dcdcdc"/>
+  <rect id="Rectangle_68" data-name="Rectangle 68" width="164" height="44" rx="22" transform="translate(1371 56)" fill="#dcdcdc"/>
+</svg>

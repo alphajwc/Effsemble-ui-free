@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <filter id="Rectangle_33" x="250" y="51" width="372" height="462" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#181515" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_33-2" x="774" y="51" width="372" height="462" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#181515" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_33-3" x="1298" y="51" width="372" height="462" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#181515" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_33-4" x="250" y="573" width="372" height="462" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-color="#181515" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_33-5" x="774" y="573" width="372" height="462" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-color="#181515" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_33-6" x="1298" y="573" width="372" height="462" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-color="#181515" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="Rectangle_38" data-name="Rectangle 38" width="1920" height="1080" fill="#fff"/>
+  <g id="Group_16" data-name="Group 16" transform="translate(258.861 57)">
+    <g transform="matrix(1, 0, 0, 1, -258.86, -57)" filter="url(#Rectangle_33)">
+      <rect id="Rectangle_33-7" data-name="Rectangle 33" width="354" height="444" transform="translate(259 57)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_23" data-name="Rectangle 23" width="232" height="41" rx="18" transform="translate(65.14 229)" fill="#c2f0ca"/>
+    <rect id="Rectangle_24" data-name="Rectangle 24" width="171" height="25" rx="12.5" transform="translate(93.139 295)" fill="#dcdcdc"/>
+    <rect id="Rectangle_36" data-name="Rectangle 36" width="227" height="168" transform="translate(63.139 37)" fill="#dcdcdc"/>
+    <rect id="Rectangle_37" data-name="Rectangle 37" width="171" height="27" rx="13.5" transform="translate(93.139 336)" fill="#dcdcdc"/>
+    <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="18.5" cy="18" rx="18.5" ry="18" transform="translate(84.139 381)" fill="#e5a0a0"/>
+    <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="19" cy="18" rx="19" ry="18" transform="translate(132.139 381)" fill="#79bcd4"/>
+    <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="19" cy="18" rx="19" ry="18" transform="translate(181.139 381)" fill="#c2f0ca"/>
+    <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="19" cy="18" rx="19" ry="18" transform="translate(230.139 381)" fill="#f8ffc9"/>
+  </g>
+  <g id="Group_17" data-name="Group 17" transform="translate(783.025 57)">
+    <g transform="matrix(1, 0, 0, 1, -783.03, -57)" filter="url(#Rectangle_33-2)">
+      <rect id="Rectangle_33-8" data-name="Rectangle 33" width="354" height="444" transform="translate(783 57)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_23-2" data-name="Rectangle 23" width="231" height="41" rx="18" transform="translate(65.975 229)" fill="#c2f0ca"/>
+    <rect id="Rectangle_24-2" data-name="Rectangle 24" width="171" height="25" rx="12.5" transform="translate(92.975 295)" fill="#dcdcdc"/>
+    <rect id="Rectangle_36-2" data-name="Rectangle 36" width="227" height="168" transform="translate(62.975 37)" fill="#dcdcdc"/>
+    <rect id="Rectangle_37-2" data-name="Rectangle 37" width="171" height="27" rx="13.5" transform="translate(92.975 336)" fill="#dcdcdc"/>
+    <ellipse id="Ellipse_7-2" data-name="Ellipse 7" cx="18.5" cy="18" rx="18.5" ry="18" transform="translate(83.975 381)" fill="#e5a0a0"/>
+    <ellipse id="Ellipse_8-2" data-name="Ellipse 8" cx="19" cy="18" rx="19" ry="18" transform="translate(131.975 381)" fill="#79bcd4"/>
+    <ellipse id="Ellipse_9-2" data-name="Ellipse 9" cx="19.5" cy="18" rx="19.5" ry="18" transform="translate(180.975 381)" fill="#c2f0ca"/>
+    <ellipse id="Ellipse_10-2" data-name="Ellipse 10" cx="19.5" cy="18" rx="19.5" ry="18" transform="translate(229.975 381)" fill="#f8ffc9"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_33-3)">
+    <rect id="Rectangle_33-9" data-name="Rectangle 33" width="354" height="444" transform="translate(1307 57)" fill="#fff"/>
+  </g>
+  <rect id="Rectangle_23-3" data-name="Rectangle 23" width="231" height="41" rx="18" transform="translate(1373 286)" fill="#c2f0ca"/>
+  <rect id="Rectangle_24-3" data-name="Rectangle 24" width="171" height="25" rx="12.5" transform="translate(1400 352)" fill="#dcdcdc"/>
+  <rect id="Rectangle_36-3" data-name="Rectangle 36" width="227" height="168" transform="translate(1371 94)" fill="#dcdcdc"/>
+  <rect id="Rectangle_37-3" data-name="Rectangle 37" width="171" height="27" rx="13.5" transform="translate(1400 393)" fill="#dcdcdc"/>
+  <ellipse id="Ellipse_7-3" data-name="Ellipse 7" cx="18.5" cy="18" rx="18.5" ry="18" transform="translate(1391 438)" fill="#e5a0a0"/>
+  <ellipse id="Ellipse_8-3" data-name="Ellipse 8" cx="19.5" cy="18" rx="19.5" ry="18" transform="translate(1439 438)" fill="#79bcd4"/>
+  <ellipse id="Ellipse_9-3" data-name="Ellipse 9" cx="19.5" cy="18" rx="19.5" ry="18" transform="translate(1488 438)" fill="#c2f0ca"/>
+  <ellipse id="Ellipse_10-3" data-name="Ellipse 10" cx="19" cy="18" rx="19" ry="18" transform="translate(1538 438)" fill="#f8ffc9"/>
+  <g id="Group_19" data-name="Group 19" transform="translate(258.861 578.98)">
+    <g transform="matrix(1, 0, 0, 1, -258.86, -578.98)" filter="url(#Rectangle_33-4)">
+      <rect id="Rectangle_33-10" data-name="Rectangle 33" width="354" height="444" transform="translate(259 579)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_23-4" data-name="Rectangle 23" width="232" height="41" rx="18" transform="translate(65.14 229.02)" fill="#c2f0ca"/>
+    <rect id="Rectangle_24-4" data-name="Rectangle 24" width="171" height="25" rx="12.5" transform="translate(93.139 295.02)" fill="#dcdcdc"/>
+    <rect id="Rectangle_36-4" data-name="Rectangle 36" width="227" height="168" transform="translate(63.139 37.02)" fill="#dcdcdc"/>
+    <rect id="Rectangle_37-4" data-name="Rectangle 37" width="171" height="27" rx="13.5" transform="translate(93.139 336.02)" fill="#dcdcdc"/>
+    <ellipse id="Ellipse_7-4" data-name="Ellipse 7" cx="18.5" cy="18" rx="18.5" ry="18" transform="translate(84.139 381.02)" fill="#e5a0a0"/>
+    <ellipse id="Ellipse_8-4" data-name="Ellipse 8" cx="19" cy="18" rx="19" ry="18" transform="translate(132.139 381.02)" fill="#79bcd4"/>
+    <ellipse id="Ellipse_9-4" data-name="Ellipse 9" cx="19" cy="18" rx="19" ry="18" transform="translate(181.139 381.02)" fill="#c2f0ca"/>
+    <ellipse id="Ellipse_10-4" data-name="Ellipse 10" cx="19" cy="18" rx="19" ry="18" transform="translate(230.139 381.02)" fill="#f8ffc9"/>
+  </g>
+  <g id="Group_20" data-name="Group 20" transform="translate(783.025 578.98)">
+    <g transform="matrix(1, 0, 0, 1, -783.03, -578.98)" filter="url(#Rectangle_33-5)">
+      <rect id="Rectangle_33-11" data-name="Rectangle 33" width="354" height="444" transform="translate(783 579)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_23-5" data-name="Rectangle 23" width="231" height="41" rx="18" transform="translate(65.975 229.02)" fill="#c2f0ca"/>
+    <rect id="Rectangle_24-5" data-name="Rectangle 24" width="171" height="25" rx="12.5" transform="translate(92.975 295.02)" fill="#dcdcdc"/>
+    <rect id="Rectangle_36-5" data-name="Rectangle 36" width="227" height="168" transform="translate(62.975 37.02)" fill="#dcdcdc"/>
+    <rect id="Rectangle_37-5" data-name="Rectangle 37" width="171" height="27" rx="13.5" transform="translate(92.975 336.02)" fill="#dcdcdc"/>
+    <ellipse id="Ellipse_7-5" data-name="Ellipse 7" cx="18.5" cy="18" rx="18.5" ry="18" transform="translate(83.975 381.02)" fill="#e5a0a0"/>
+    <ellipse id="Ellipse_8-5" data-name="Ellipse 8" cx="19" cy="18" rx="19" ry="18" transform="translate(131.975 381.02)" fill="#79bcd4"/>
+    <ellipse id="Ellipse_9-5" data-name="Ellipse 9" cx="19.5" cy="18" rx="19.5" ry="18" transform="translate(180.975 381.02)" fill="#c2f0ca"/>
+    <ellipse id="Ellipse_10-5" data-name="Ellipse 10" cx="19.5" cy="18" rx="19.5" ry="18" transform="translate(229.975 381.02)" fill="#f8ffc9"/>
+  </g>
+  <g id="Group_21" data-name="Group 21" transform="translate(1307.189 578.98)">
+    <g transform="matrix(1, 0, 0, 1, -1307.19, -578.98)" filter="url(#Rectangle_33-6)">
+      <rect id="Rectangle_33-12" data-name="Rectangle 33" width="354" height="444" transform="translate(1307 579)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_23-6" data-name="Rectangle 23" width="231" height="41" rx="18" transform="translate(65.81 229.02)" fill="#c2f0ca"/>
+    <rect id="Rectangle_24-6" data-name="Rectangle 24" width="171" height="25" rx="12.5" transform="translate(92.81 295.02)" fill="#dcdcdc"/>
+    <rect id="Rectangle_36-6" data-name="Rectangle 36" width="227" height="168" transform="translate(63.81 37.02)" fill="#dcdcdc"/>
+    <rect id="Rectangle_37-6" data-name="Rectangle 37" width="171" height="27" rx="13.5" transform="translate(92.81 336.02)" fill="#dcdcdc"/>
+    <ellipse id="Ellipse_7-6" data-name="Ellipse 7" cx="18.5" cy="18" rx="18.5" ry="18" transform="translate(83.81 381.02)" fill="#e5a0a0"/>
+    <ellipse id="Ellipse_8-6" data-name="Ellipse 8" cx="19.5" cy="18" rx="19.5" ry="18" transform="translate(131.81 381.02)" fill="#79bcd4"/>
+    <ellipse id="Ellipse_9-6" data-name="Ellipse 9" cx="19.5" cy="18" rx="19.5" ry="18" transform="translate(180.811 381.02)" fill="#c2f0ca"/>
+    <ellipse id="Ellipse_10-6" data-name="Ellipse 10" cx="19" cy="18" rx="19" ry="18" transform="translate(230.811 381.02)" fill="#f8ffc9"/>
+  </g>
+</svg>
